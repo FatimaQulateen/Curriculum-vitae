@@ -5,27 +5,6 @@ div {
   text-align: justify;
   text-justify: inter-word;
 }
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-}
-
-.fa:hover {
-    opacity: 0.7;
-}
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-}
-.fa-linkedin {
-  background: #007bb5;
-  color: white;
-} 
-</style>
 <body style="background-color:powderwhite;">
 <center> London | fk.qulateen@hotmail.com </center>
 
