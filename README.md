@@ -75,7 +75,7 @@ answering telephone calls from clients and applicants</li>
 <p><br>17th – 20th October 2016</p>
 <p>Institute of Directors (IOD) – London Global Convention India<br>Millennium Hotel Mayfair – Front of House Volunteer on behave of University of Greenwich</p>
 
-<p><b><u>Technical Skills</u></b></p>
+<b>Technical Skills</b><hr style="border: 2px solid black;"/>
 <p><li>Highly competent user of Microsoft Office software (Word, PowerPoint, Outlook, Visio, SharePoint and Excel)</li>
 <li>Good understanding of client-side scripting languages (HTML, CSS and JavaScript) and principles of website design, gained from university assignments surrounding web development</li>
 <li>Experience with CRM software (Salesforce)</li>
@@ -86,7 +86,7 @@ answering telephone calls from clients and applicants</li>
 <li>Experience with creating UML diagrams (class, use case, object sequence and state) </li>
 <li>Basic experience with server-side scripting languages (PHP)</li></p>
 
-<p><b><u>References</u></b></p>
+<b>References</b><hr style="border: 2px solid black;"/>
 Available on Request
 
 </body>
