@@ -18,15 +18,15 @@ div {
 <p><b><u>Education</u></b></p>
 
 <p>September 2017 – December 2019</p>
-<p>University of Greenwich </p>                                                   
-<br>MSc Management of Business Information Technology</br>
+<p><br>University of Greenwich                                                    
+MSc Management of Business Information Technology</p>
 <p>GRADE: <b>Distinction</b></p>
 <p><b>Key Modules:</b> <i>Project Management: 67%, System Modelling: 70%, Systems Development and Design: 88%, Strategic IT: 80%, Data Modelling: 68%, Managing IT Security and Risk: 79%, Web and Intranet Content Management: 90% and User Experience Design: 66%.</i></p>
 <p>MSc Project: 22,000-word dissertation project investigating successful workforce management (WFM) applications, by identifying the characteristics of high-rated enterprise mobile applications. The project resulted in the development of a well designed and developed iOS WFM mobile application: 80%.</p>
 
 <p>September 2013 – June 2017</p> 
-<p>University of Greenwich </p> 
-<br>BA (Hon) Business Management</br>
+<p><br>University of Greenwich
+BA (Hon) Business Management</p>
 <p>GRADE: <b>First Class Honours</b></p>
 <p><b>Key Modules:</b> <i>Management and Information Systems: 85%, Operations Management: Processes & Value Chains: 64%, Organisation Behaviour - Leadership: 72% and 10,000-word dissertation analysing Glass ceiling barriers on women in the UK Banking Industry: 75%.</i></p>
 
