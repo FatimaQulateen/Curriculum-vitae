@@ -41,7 +41,7 @@ div {
 <p><b><u>Work Experience</u></b></p>
 <p>April 2019 – January 2020</p>
 <p>ProActive Rail – Recruiter</p>
-<p><b>Duties include:</b><br><li>Work and communicate directly with Senior Recruiter, Operation Managers, Operations Coordinators and railway industry known clients (DLR, Arriva, GWR, Thames Clippers, GTR and Heathrow Express)</li>
+<b>Duties include:</b><br><li>Work and communicate directly with Senior Recruiter, Operation Managers, Operations Coordinators and railway industry known clients (DLR, Arriva, GWR, Thames Clippers, GTR and Heathrow Express)</li>
 <li>Taking ownership of challenging recruitment projects from the initiation phase through to the follow up phase to deliver an exceptional service to clients</li>
 <li>Built and maintained strong professional relationships with internal and external stakeholders across the company</li>
 <li>Utilising Salesforce to record, organise and manage applicant CV’s, telephone and face to face interviews</li>
