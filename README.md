@@ -18,35 +18,30 @@ div {
 <p><b><u>Education</u></b></p>
 
 <p>September 2017 – December 2019</p>
-<p><br>University of Greenwich                                                    
-MSc Management of Business Information Technology</p>
+<p>University of Greenwich MSc<br>Management of Business Information Technology</p>
 <p>GRADE: <b>Distinction</b></p>
 <p><b>Key Modules:</b> <i>Project Management: 67%, System Modelling: 70%, Systems Development and Design: 88%, Strategic IT: 80%, Data Modelling: 68%, Managing IT Security and Risk: 79%, Web and Intranet Content Management: 90% and User Experience Design: 66%.</i></p>
 <p>MSc Project: 22,000-word dissertation project investigating successful workforce management (WFM) applications, by identifying the characteristics of high-rated enterprise mobile applications. The project resulted in the development of a well designed and developed iOS WFM mobile application: 80%.</p>
 
 <p>September 2013 – June 2017</p> 
-<p><br>University of Greenwich
-BA (Hon) Business Management</p>
+<p>University of Greenwich<br>BA (Hon) Business Management</p>
 <p>GRADE: <b>First Class Honours</b></p>
 <p><b>Key Modules:</b> <i>Management and Information Systems: 85%, Operations Management: Processes & Value Chains: 64%, Organisation Behaviour - Leadership: 72% and 10,000-word dissertation analysing Glass ceiling barriers on women in the UK Banking Industry: 75%.</i></p>
 
 <p>September 2011 – July 2013</p>
-<p>Newham Sixth Form College: Newvic </p> 
-<p>BTEC Level 3 Extended Diploma Business, Triple Distinction (DDD)</p>
+<p>Newham Sixth Form College: Newvic<br>BTEC Level 3 Extended Diploma Business, Triple Distinction (DDD)</p>
 
 <p>September 2006 – July 2011</p>
-<p>Forest Gate Community School</p> 
-<p>5 GCSE’s including: Mathematics (B), English Language (C), English Literature (C) and BTEC Science (Merit)</p>
+<p>Forest Gate Community School<br>5 GCSE’s including: Mathematics (B), English Language (C), English Literature (C) and BTEC Science (Merit)</p>
 
 <p><b><u>Certification</u></b></p>
 <p>May 2019</p> 
-<p>Agile Business Consortium - Agile Foundation Certification</p> 
+<p><b>Agile Business Consortium</b> - Agile Foundation Certification</p> 
 
 <p><b><u>Work Experience</u></b></p>
 <p>April 2019 – January 2020</p>
 <p>ProActive Rail – Recruiter</p> 
-<b>Duties include:</b>
-<p><li>Work and communicate directly with Senior Recruiter, Operation Managers, Operations Coordinators and railway industry known clients (DLR, Arriva, GWR, Thames Clippers, GTR and Heathrow Express)</li>
+<b>Duties include:</b><br><li>Work and communicate directly with Senior Recruiter, Operation Managers, Operations Coordinators and railway industry known clients (DLR, Arriva, GWR, Thames Clippers, GTR and Heathrow Express)</li>
 <li>Taking ownership of challenging recruitment projects from the initiation phase through to the follow up phase to deliver an exceptional service to clients</li>
 <li>Built and maintained strong professional relationships with internal and external stakeholders across the company</li>
 <li>Utilising Salesforce to record, organise and manage applicant CV’s, telephone and face to face interviews</li>
@@ -57,8 +52,7 @@ answering telephone calls from clients and applicants</li></p>
 
 <p>April 2019 – January 2020</p>
 <p>Zap Space – Customer Service Assistant</p>
-<b>Duties include:</b>
-<p><li>Ensure that customers are always welcomed into a polite and friendly store</li>
+<b>Duties include:</b><br><li>Ensure that customers are always welcomed into a polite and friendly store</li>
 <li>Working to provide an outstanding service to a diverse group of people from different races, age groups and genders</li><li>Deal with customer enquiries - bookings, modifications and cancellations - over the phone, online and face to face</li>
 <li>Manage the front register - handling customer payments and presenting good product knowledge to customers on key</li>
 promotions and offers</li>
@@ -67,23 +61,21 @@ promotions and offers</li>
 
 <p>September 2017 – February 2018</p>
 <p>IFF Research LTD – Market Research Interviewer</p>
-<b>Duties include:</b>
-<p><li>Ensuring respondents of anonymity and confidentiality of all data collected</li>
+<b>Duties include:</b><br><li>Ensuring respondents of anonymity and confidentiality of all data collected</li>
 <li>Confidently communicating with respondents with a professional tone of voice and attitude</li>
 <li>Thoroughly recording respondent answers using company software to ensure accuracy of data collected</li></p>
 
 <p><b><u>Volunteer Experience</u></b></p>
 <p>October 2017 – December 2017</p>
 <p>Street Child – Event Management Internship</p> 
-<b>Duties include:</b>
-<p><li>Maintain and update work plans to outline event project processes and goals, management software and tools (GANTT charts)</li>
+<b>Duties include:</b><br><li>Maintain and update work plans to outline event project processes and goals, management software and tools (GANTT charts)</li>
 <li>Conducting research and analysing information to identify solutions to avoid possible project risks</li>
 <li>Building and upholding relationships with donors via networking events</li>
 <li>Taking minutes during weekly meetings with events team</li>
 <li>Assist events team with organising the Winter Ball 2017 charity event for hundreds of donors and potential donors</li></p>
 
 <p>17th – 20th October 2016</p>
-<p>Institute of Directors (IOD) – London Global Convention India                                                            Millennium Hotel Mayfair – Front of House Volunteer on behave of University of Greenwich</p>
+<p>Institute of Directors (IOD) – London Global Convention India<br>Millennium Hotel Mayfair – Front of House Volunteer on behave of University of Greenwich</p>
 
 <p><b><u>Technical Skills</u></b></p>
 <p><li>Highly competent user of Microsoft Office software (Word, PowerPoint, Outlook, Visio, SharePoint and Excel)</li>
