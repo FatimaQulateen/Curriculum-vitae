@@ -16,19 +16,20 @@ div {
 <p>Currently I am looking for a Graduate Front End Developer position with a technology company that will not only challenge me professionally but will also allow me to develop my knowledge and potential further. I hope to make a significant contribution to a company that offers a genuine opportunity for progression.</p></div>
 
 <p><b><u>Education</u></b></p>
-<p>September 2017 – December 2019</p>
-<p>University of Greenwich </p>
+
+<p>September 2017 – December 2019 University of Greenwich </p>
 <p>MSc Management of Business Information Technology</p>
 <p>GRADE: <b>Distinction</b></p>
-<p>Key Modules: Project Management: 67%, System Modelling: 70%, Systems Development and Design: 88%, Strategic IT: 80%, Data Modelling: 68%, Managing IT Security and Risk: 79%, Web and Intranet Content Management: 90% and User Experience Design: 66%.</p>
+<p><b>Key Modules:</b> <i>Project Management: 67%, System Modelling: 70%, Systems Development and Design: 88%, Strategic IT: 80%, Data Modelling: 68%, Managing IT Security and Risk: 79%, Web and Intranet Content Management: 90% and User Experience Design: 66%.</i></p>
 <p>MSc Project: 22,000-word dissertation project investigating successful workforce management (WFM) applications, by identifying the characteristics of high-rated enterprise mobile applications. The project resulted in the development of a well designed and developed iOS WFM mobile application: 80%.</p>
-<p>September 2013 – June 2017</p>
-<p>University of Greenwich </p> 
+
+<p>September 2013 – June 2017 University of Greenwich </p> 
 <p>BA (Hon) Business Management</p>
 <p>GRADE: <b>First Class Honours</b></p>
-<p>Key Modules: Management and Information Systems: 85%, Operations Management: Processes & Value Chains: 64%, Organisation Behaviour - Leadership: 72% and 10,000-word dissertation analysing Glass ceiling barriers on women in the UK Banking Industry: 75%.</p>
-  <p>September 2011 – July 2013</p>
-<p>Newham Sixth Form College: Newvic </p> 
+<p><b>Key Modules:</b> <i>Management and Information Systems: 85%, Operations Management: Processes & Value Chains: 64%, Organisation Behaviour - Leadership: 72% and 10,000-word dissertation analysing Glass ceiling barriers on women in the UK Banking Industry: 75%.</i></p>
+
+<p>September 2011 – July 2013
+Newham Sixth Form College: Newvic </p> 
 <p>BTEC Level 3 Extended Diploma Business, Triple Distinction (DDD)</p>
 <p>Forest Gate Community School</p> September 2006 – July 2011
 <p>5 GCSE’s including: Mathematics (B), English Language (C), English Literature (C) and BTEC Science (Merit)</p>
