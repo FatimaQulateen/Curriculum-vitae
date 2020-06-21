@@ -7,9 +7,9 @@ div {
 }
 </style>
 </head>
+<div class="rainbow-box">
 <body style="background-color:powderwhite;">
-<center><h1><b>Fatima Qulateen</b></h1> 
-London | fk.qulateen@hotmail.com </center>
+<center> London | fk.qulateen@hotmail.com </center>
 
 <p><b><u>Personal Profile</u></b></p>
 
