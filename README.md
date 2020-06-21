@@ -87,7 +87,7 @@ answering telephone calls from clients and applicants</li>
 <li>Basic experience with server-side scripting languages (PHP)</li></p>
 
 <b>References</b><hr style="border: 2px solid black;"/>
-Available on Request
+<p>Available on Request</p>
 
 </body>
 </html>
