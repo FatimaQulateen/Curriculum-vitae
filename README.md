@@ -48,7 +48,7 @@ div {
 <li>Attend and participate fresh ideas in daily stand-up meetings</li>
 <li>Understanding and ensuring KPI’s are efficiently achieved</li>
 <li>Carrying out general administrative tasks such as distributing information within the office, maintaining documents and
-answering telephone calls from clients and applicants</li></br>
+answering telephone calls from clients and applicants</li>
 
 <p>April 2019 – January 2020</p>
 <p>Zap Space – Customer Service Assistant</p>
