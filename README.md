@@ -5,8 +5,6 @@ div {
   text-align: justify;
   text-justify: inter-word;
 }
- <link rel="stylesheet" href="https://twitter.com/Timaaaaa_"
-<a href="https://twitter.com/Timaaaaa_" class="fa fa-twitter"></a>
   </style> 
 <center> London | fk.qulateen@hotmail.com </center>
 
