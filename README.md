@@ -7,7 +7,7 @@ div {
 }
 </style>
 </head>
-<body style="background-color:powderwhite;">
+<body style="background-color:powderpink;">
 <center> London | fk.qulateen@hotmail.com </center>
 
 <p><b><u>Personal Profile</u></b></p>
