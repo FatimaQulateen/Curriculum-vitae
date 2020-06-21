@@ -5,6 +5,7 @@ div {
   text-align: justify;
   text-justify: inter-word;
 }
+  </style>
 <body style="background-color:powderwhite;">
 <center> London | fk.qulateen@hotmail.com </center>
 
