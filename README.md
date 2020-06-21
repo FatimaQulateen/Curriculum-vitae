@@ -8,13 +8,13 @@ div {
   </style> 
 <center> London | fk.qulateen@hotmail.com </center>
 
-<p><b>Personal Profile</b></p>
+<b>Personal Profile</b>
 <br><hr style="border: 2px solid black;"/>
 
 <div><p>I am a highly self-motivated business professional with a flexible and adaptable approach to work. I come from a strong business background with a first-class honours Business Management degree and I have recently completed a MSc in Management of Business IT with a distinction. With my strong academic qualifications and work experiences I have the professional and practical skills required for becoming an innovate project leader, with the knowledge of how to leverage technology and data to improve project outcomes. I possess excellent communication, organisational and time management skills with the ability to work well in both group and self-directed environments. I have experience working in a fast-paced office environment with a proven track record in providing accurate and timely support. My outstanding work ethic allows me to respond quickly, calmly and efficiently when required.</p>
 <p>Currently I am looking for a Graduate Front End Developer position with a technology company that will not only challenge me professionally but will also allow me to develop my knowledge and potential further. I hope to make a significant contribution to a company that offers a genuine opportunity for progression.</p></div>
 
-<p><b>Education</b></p>
+<b>Education</b>
 <br><hr style="border: 2px solid black;"/>
 
 <p>September 2017 – December 2019</p>
