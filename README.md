@@ -41,7 +41,7 @@ div {
 <p><b><u>Work Experience</u></b></p>
 <p>April 2019 – January 2020</p>
 <p>ProActive Rail – Recruiter</p> 
-<b>Duties include:</b><br><li>Work and communicate directly with Senior Recruiter, Operation Managers, Operations Coordinators and railway industry known clients (DLR, Arriva, GWR, Thames Clippers, GTR and Heathrow Express)</li>
+<p><b>Duties include:</b><br><li>Work and communicate directly with Senior Recruiter, Operation Managers, Operations Coordinators and railway industry known clients (DLR, Arriva, GWR, Thames Clippers, GTR and Heathrow Express)</li>
 <li>Taking ownership of challenging recruitment projects from the initiation phase through to the follow up phase to deliver an exceptional service to clients</li>
 <li>Built and maintained strong professional relationships with internal and external stakeholders across the company</li>
 <li>Utilising Salesforce to record, organise and manage applicant CV’s, telephone and face to face interviews</li>
@@ -52,23 +52,22 @@ answering telephone calls from clients and applicants</li></p>
 
 <p>April 2019 – January 2020</p>
 <p>Zap Space – Customer Service Assistant</p>
-<b>Duties include:</b><br><li>Ensure that customers are always welcomed into a polite and friendly store</li>
+<p><b>Duties include:</b><br><li>Ensure that customers are always welcomed into a polite and friendly store</li>
 <li>Working to provide an outstanding service to a diverse group of people from different races, age groups and genders</li><li>Deal with customer enquiries - bookings, modifications and cancellations - over the phone, online and face to face</li>
-<li>Manage the front register - handling customer payments and presenting good product knowledge to customers on key</li>
-promotions and offers</li>
+<li>Manage the front register - handling customer payments and presenting good product knowledge to customers on key promotions and offers</li>
 <li>Excelling in a very busy environment whilst ensuring the safety of customers when using trampoline equipment at all times</li>
 <li>Calmly managing conflict in volatile situations occurring between colleagues and customers</li></p>
 
 <p>September 2017 – February 2018</p>
 <p>IFF Research LTD – Market Research Interviewer</p>
-<b>Duties include:</b><br><li>Ensuring respondents of anonymity and confidentiality of all data collected</li>
+<p><b>Duties include:</b><br><li>Ensuring respondents of anonymity and confidentiality of all data collected</li>
 <li>Confidently communicating with respondents with a professional tone of voice and attitude</li>
 <li>Thoroughly recording respondent answers using company software to ensure accuracy of data collected</li></p>
 
 <p><b><u>Volunteer Experience</u></b></p>
 <p>October 2017 – December 2017</p>
 <p>Street Child – Event Management Internship</p> 
-<b>Duties include:</b><br><li>Maintain and update work plans to outline event project processes and goals, management software and tools (GANTT charts)</li>
+<p><b>Duties include:</b><br><li>Maintain and update work plans to outline event project processes and goals, management software and tools (GANTT charts)</li>
 <li>Conducting research and analysing information to identify solutions to avoid possible project risks</li>
 <li>Building and upholding relationships with donors via networking events</li>
 <li>Taking minutes during weekly meetings with events team</li>
