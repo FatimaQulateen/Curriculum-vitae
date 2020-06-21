@@ -1,12 +1,12 @@
 <html>
 <head>   
-<style> 
+<body style="background-color:powderwhite;">
+ <style> 
 div {
   text-align: justify;
   text-justify: inter-word;
 }
   </style>
-<body style="background-color:powderwhite;">
 <center> London | fk.qulateen@hotmail.com </center>
 
 <p><b><u>Personal Profile</u></b></p>
