@@ -7,7 +7,31 @@ div {
 }
 </style>
 </head>
-<body style="background-color:powderblue;">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+<body style="background-color:powderwhite;">
 <center> London | fk.qulateen@hotmail.com </center>
 
 <p><b><u>Personal Profile</u></b></p>
@@ -89,6 +113,10 @@ answering telephone calls from clients and applicants</li>
 
 <p><b><u>References</u></b></p>
 Available on Request
+
+<a href="https://www.linkedin.com/in/fatima-qulateen-295312142/" class="fa fa-linkedin"></a>
+<a href="https://twitter.com/Timaaaaa_" class="fa fa-twitter"></a>
+
 </body>
 </html>
 
