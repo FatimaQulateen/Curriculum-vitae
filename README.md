@@ -8,6 +8,60 @@ div {
 </style>
 </head>
 <body style="background-color:powderpink;">
+ 
+@-moz-keyframes charlieeee {
+  from { background-position:top left; } 
+  to {background-position:top right; }
+}
+@-webkit-keyframes charlieeee { 
+  from { background-position:top left; }  
+  to { background-position:top right; }  
+}
+@-o-keyframes charlieeee { 
+  from { background-position:top left; }  
+  to { background-position:top right; }  
+}
+@-ms-keyframes charlieeee { 
+  from { background-position:top left; }  
+  to { background-position:top right; }  
+}
+@-khtml-keyframes charlieeee { 
+  from { background-position:top left; }  
+  to { background-position:top right; }  
+}
+@keyframes charlieeee { 
+  from { background-position:top left; }  
+  to { background-position:top right; }  
+}
+.catchadream{
+  background-image:-webkit-linear-gradient( left, red, orange, yellow, green,
+                                          blue, indigo, violet, indigo, blue,
+                                          green, yellow, orange, red );
+  background-image:-moz-linear-gradient( left, red, orange, yellow, green,
+                                         blue,indigo, violet, indigo, blue,
+                                         green, yellow, orange,red );
+  background-image:-o-linear-gradient( left, red, orange, yellow, green,
+                                         blue,indigo, violet, indigo, blue,
+                                         green, yellow, orange,red );
+  background-image:-ms-linear-gradient( left, red, orange, yellow, green,
+                                         blue,indigo, violet, indigo, blue,
+                                         green, yellow, orange,red );
+  background-image:-khtml-linear-gradient( left, red, orange, yellow, green,
+                                         blue,indigo, violet, indigo, blue,
+                                         green, yellow, orange,red );
+  background-image:linear-gradient( left, red, orange, yellow, green,
+                                         blue,indigo, violet, indigo, blue,
+                                         green, yellow, orange,red );
+  -moz-animation:charlieeee 2.5s forwards linear infinite;
+  -webkit-animation:charlieeee 2.5s forwards linear infinite;
+  -o-animation:charlieeee 2.5s forwards linear infinite;
+  -khtml-animation:charlieeee 2.5s forwards linear infinite;
+  -ms-animation:charlieeee 2.5s forwards linear infinite;
+  -lynx-animation:charlieeee 2.5s forwards linear infinite;
+  animation:charlieeee 2.5s forwards linear infinite;
+  background-size:50% auto;
+}
+#tongue{position:cheek;}
 <center> London | fk.qulateen@hotmail.com </center>
 
 <p><b><u>Personal Profile</u></b></p>
@@ -21,7 +75,7 @@ div {
 <p>University of Greenwich MSc<br>Management of Business Information Technology</p>
 <p>GRADE: <b>Distinction</b></p>
 <p><b>Key Modules:</b> <i>Project Management: 67%, System Modelling: 70%, Systems Development and Design: 88%, Strategic IT: 80%, Data Modelling: 68%, Managing IT Security and Risk: 79%, Web and Intranet Content Management: 90% and User Experience Design: 66%.</i></p>
-<p>MSc Project: 22,000-word dissertation project investigating successful workforce management (WFM) applications, by identifying the characteristics of high-rated enterprise mobile applications. The project resulted in the development of a well designed and developed iOS WFM mobile application: 80%.</p>
+<p>MSc Project: 22,000-word dissertation project investigating successful workforce management (WFM) applications, by identifying the characteristics of high-rated enterprise mobile applications. The project resulted in the development of a well designed and developed iOS WFM mobile application: <i>80%</i>.</p>
 
 <p>September 2013 – June 2017</p> 
 <p>University of Greenwich<br>BA (Hon) Business Management</p>
