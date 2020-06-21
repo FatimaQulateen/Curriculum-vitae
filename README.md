@@ -40,7 +40,7 @@ div {
 
 <p><b><u>Work Experience</u></b></p>
 <p>April 2019 – January 2020</p>
-<p>ProActive Rail – Recruiter</p> 
+<p>ProActive Rail – Recruiter
 <b>Duties include:</b><br><li>Work and communicate directly with Senior Recruiter, Operation Managers, Operations Coordinators and railway industry known clients (DLR, Arriva, GWR, Thames Clippers, GTR and Heathrow Express)</li>
 <li>Taking ownership of challenging recruitment projects from the initiation phase through to the follow up phase to deliver an exceptional service to clients</li>
 <li>Built and maintained strong professional relationships with internal and external stakeholders across the company</li>
@@ -48,7 +48,7 @@ div {
 <li>Attend and participate fresh ideas in daily stand-up meetings</li>
 <li>Understanding and ensuring KPI’s are efficiently achieved</li>
 <li>Carrying out general administrative tasks such as distributing information within the office, maintaining documents and
-answering telephone calls from clients and applicants</li>
+answering telephone calls from clients and applicants</li></p> 
 
 <p>April 2019 – January 2020</p>
 <p>Zap Space – Customer Service Assistant</p>
