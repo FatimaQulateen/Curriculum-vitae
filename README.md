@@ -14,8 +14,7 @@ div {
 <div><p>I am a highly self-motivated business professional with a flexible and adaptable approach to work. I come from a strong business background with a first-class honours Business Management degree and I have recently completed a MSc in Management of Business IT with a distinction. With my strong academic qualifications and work experiences I have the professional and practical skills required for becoming an innovate project leader, with the knowledge of how to leverage technology and data to improve project outcomes. I possess excellent communication, organisational and time management skills with the ability to work well in both group and self-directed environments. I have experience working in a fast-paced office environment with a proven track record in providing accurate and timely support. My outstanding work ethic allows me to respond quickly, calmly and efficiently when required.</p>
 <p>Currently I am looking for a Graduate Front End Developer position with a technology company that will not only challenge me professionally but will also allow me to develop my knowledge and potential further. I hope to make a significant contribution to a company that offers a genuine opportunity for progression.</p></div>
 
-<b>Education</b>
-<br><hr style="border: 2px solid black;"/>
+<b>Education</b><hr style="border: 2px solid black;"/>
 
 <p>September 2017 – December 2019</p>
 <p>University of Greenwich MSc<br>Management of Business Information Technology</p>
@@ -34,11 +33,11 @@ div {
 <p>September 2006 – July 2011</p>
 <p>Forest Gate Community School<br>5 GCSE’s including: Mathematics (B), English Language (C), English Literature (C) and BTEC Science (Merit)</p>
 
-<p><b><u>Certification</u></b></p>
+<b>Certification</b><hr style="border: 2px solid black;"/>
 <p>May 2019</p> 
 <p><b>Agile Business Consortium</b> - Agile Foundation Certification</p> 
 
-<p><b><u>Work Experience</u></b></p>
+<b>Work Experience</b><hr style="border: 2px solid black;"/>
 <p>April 2019 – January 2020</p>
 <p>ProActive Rail – Recruiter</p>
 <b>Duties include:</b><br><li>Work and communicate directly with Senior Recruiter, Operation Managers, Operations Coordinators and railway industry known clients (DLR, Arriva, GWR, Thames Clippers, GTR and Heathrow Express)</li>
@@ -64,7 +63,7 @@ answering telephone calls from clients and applicants</li>
 <li>Confidently communicating with respondents with a professional tone of voice and attitude</li>
 <li>Thoroughly recording respondent answers using company software to ensure accuracy of data collected</li>
 
-<p><br><b><u>Volunteer Experience</u></b></p>
+<br><b>Volunteer Experience</b><hr style="border: 2px solid black;"/>
 <p>October 2017 – December 2017</p>
 <p>Street Child – Event Management Internship</p> 
 <b>Duties include:</b><br><li>Maintain and update work plans to outline event project processes and goals, management software and tools (GANTT charts)</li>
