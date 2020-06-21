@@ -7,7 +7,6 @@ div {
 }
 </style>
 </head>
-<div class="rainbow-box">
 <body style="background-color:powderwhite;">
 <center> London | fk.qulateen@hotmail.com </center>
 
