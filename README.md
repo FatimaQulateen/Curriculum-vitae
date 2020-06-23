@@ -10,7 +10,7 @@
   text-align: center;
   text-decoration: none;
   margin: 4px 1px;
-  vertical-align: middle;
+  vertical-align: left;
 }
 
 .fa:hover {
