@@ -29,8 +29,8 @@
 </head>
 <body>
 
-<a href="https://twitter.com/Timaaaaa_" class="fa fa-twitter"></a>
-<a href="https://www.linkedin.com/in/fatima-qulateen-295312142/" class="fa fa-linkedin"></a>
+<center><a href="https://twitter.com/Timaaaaa_" class="fa fa-twitter"></a>
+<a href="https://www.linkedin.com/in/fatima-qulateen-295312142/" class="fa fa-linkedin"></a></center>
 
 <body style="background-color:powderwhite;">
   <style> 
