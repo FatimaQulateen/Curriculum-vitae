@@ -1,5 +1,7 @@
 <html> 
   <head>
+     <center> <h1>Fatima Qulateen </h1> <br>
+  London | fk.qulateen@hotmail.com </center>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -37,8 +39,6 @@ div {
   text-justify: inter-word;
 }
   </style> 
-  <center> <h1>Fatima Qulateen </h1> <br>
-  London | fk.qulateen@hotmail.com </center>
 
 <b>Personal Profile</b>
 <hr style="border: 2px solid black;"/>
