@@ -37,7 +37,8 @@ div {
   text-justify: inter-word;
 }
   </style> 
-<center> London | fk.qulateen@hotmail.com </center>
+  <center> <h1>Fatima Qulateen </h1> <br>
+  London | fk.qulateen@hotmail.com </center>
 
 <b>Personal Profile</b>
 <hr style="border: 2px solid black;"/>
