@@ -47,8 +47,7 @@ div {
 
 <b>Education</b><hr style="border: 2px solid black;"/>
 
-<p dir="rtl">September 2017 – December 2019</p>
-<p>University of Greenwich <br> MSc Management of Business Information Technology</p>
+<p>University of Greenwich <p dir="rtl">September 2017 – December 2019</p><br> MSc Management of Business Information Technology</p>
 <p>GRADE: <b>Distinction</b></p>
 <p><b>Key Modules:</b> <i>Project Management: 67%, System Modelling: 70%, Systems Development and Design: 88%, Strategic IT: 80%, Data Modelling: 68%, Managing IT Security and Risk: 79%, Web and Intranet Content Management: 90% and User Experience Design: 66%.</i></p>
 <p>MSc Project: 22,000-word dissertation project investigating successful workforce management (WFM) applications, by identifying the characteristics of high-rated enterprise mobile applications. The project resulted in the development of a well designed and developed iOS WFM mobile application: <i>80%</i>.</p>
@@ -65,7 +64,8 @@ div {
 <p>Forest Gate Community School<br>5 GCSE’s including: Mathematics (B), English Language (C), English Literature (C) and BTEC Science (Merit)</p>
 
 <b>Certification</b><hr style="border: 2px solid black;"/>
-<p><b>Agile Business Consortium</b> - Agile Foundation Certification <p dir="rtl">May 2019</p>  
+<p dir="rtl">May 2019</p>  
+<p><b>Agile Business Consortium</b> - Agile Foundation Certification</p>
 
 <b>Work Experience</b><hr style="border: 2px solid black;"/>
 <p dir="rtl">April 2019 – January 2020</p>
@@ -79,7 +79,7 @@ div {
 <li>Carrying out general administrative tasks such as distributing information within the office, maintaining documents and
 answering telephone calls from clients and applicants</li>
 
-<p><br>April 2019 – January 2020</p>
+<br><p dir="rtl">April 2019 – January 2020</p>
 <p>Zap Space – Customer Service Assistant</p>
 <b>Duties include:</b><br><li>Ensure that customers are always welcomed into a polite and friendly store</li>
 <li>Working to provide an outstanding service to a diverse group of people from different races, age groups and genders</li><li>Deal with customer enquiries - bookings, modifications and cancellations - over the phone, online and face to face</li>
@@ -87,14 +87,14 @@ answering telephone calls from clients and applicants</li>
 <li>Excelling in a very busy environment whilst ensuring the safety of customers when using trampoline equipment at all times</li>
 <li>Calmly managing conflict in volatile situations occurring between colleagues and customers</li>
 
-<p><br>September 2017 – February 2018</p>
+<p dir="rtl"><br>September 2017 – February 2018</p>
 <p>IFF Research LTD – Market Research Interviewer</p>
 <b>Duties include:</b><br><li>Ensuring respondents of anonymity and confidentiality of all data collected</li>
 <li>Confidently communicating with respondents with a professional tone of voice and attitude</li>
 <li>Thoroughly recording respondent answers using company software to ensure accuracy of data collected</li>
 
 <br><b>Volunteer Experience</b><hr style="border: 2px solid black;"/>
-<p>October 2017 – December 2017</p>
+<p dir="rtl">October 2017 – December 2017</p>
 <p>Street Child – Event Management Internship</p> 
 <b>Duties include:</b><br><li>Maintain and update work plans to outline event project processes and goals, management software and tools (GANTT charts)</li>
 <li>Conducting research and analysing information to identify solutions to avoid possible project risks</li>
@@ -102,7 +102,7 @@ answering telephone calls from clients and applicants</li>
 <li>Taking minutes during weekly meetings with events team</li>
 <li>Assist events team with organising the Winter Ball 2017 charity event for hundreds of donors and potential donors</li>
 
-<p><br>17th – 20th October 2016</p>
+<p dir="rtl"><br>17th – 20th October 2016</p>
 <p>Institute of Directors (IOD) – London Global Convention India<br>Millennium Hotel Mayfair – Front of House Volunteer on behave of University of Greenwich</p>
 
 <b>Technical Skills</b><hr style="border: 2px solid black;"/>
