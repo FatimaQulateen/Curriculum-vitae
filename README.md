@@ -10,7 +10,6 @@
   text-align: center;
   text-decoration: none;
   margin: 4px 1px;
-  vertical-align: left;
 }
 
 .fa:hover {
@@ -18,13 +17,11 @@
 }
 
 .fa-linkedin {
-  background: #3B5998;
-  color: white;
+  color: black;
 }
 
 .fa-twitter {
-  background: #55ACEE;
-  color: white;
+  color: black;
 
 </style>
 </head>
